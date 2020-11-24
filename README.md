@@ -1,1 +1,1 @@
-# CORONA_HOSPITAL
+# Hospital_management_for_covid
