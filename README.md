@@ -1,10 +1,10 @@
 DashBoard
 ![Capture1](https://user-images.githubusercontent.com/73699852/186836131-b7dff68d-7b3b-420d-beed-a4852834ac62.PNG)
 
-Add patient
+Add patient\n
 ![Capture2](https://user-images.githubusercontent.com/73699852/186836137-d9f60756-cf9f-4e85-b29b-6a99e64879a8.PNG)
 
-Visit a patient
+Visit a patient\n
 ![Capture3](https://user-images.githubusercontent.com/73699852/186836138-ed614a02-53b7-47dc-8776-a24a1f8045c0.PNG)
 
 Release a patient
